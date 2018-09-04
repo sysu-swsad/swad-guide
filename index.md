@@ -36,6 +36,6 @@ layout: default
 4. [Key Points Need to Know about Software Engineering](https://www.sebokwiki.org/wiki/Key_Points_a_Systems_Engineer_Needs_to_Know_about_Software_Engineering)
 5. [Capability Maturity Model Integration (CMMI)](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration)
 
-## 2、构建软件团队
+## 2、构建软件项目团队
 
 
