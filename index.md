@@ -26,9 +26,9 @@ layout: default
 
 软件工程定义：
 
-> Software engineering is “(1) the application of a systematic, disciplined, quantifiable approach to the development, operation, and maintenance of software, that is, the application of engineering to software,” and “(2) the study of approaches as in (1).” – IEEE Standard 610.12
+> **Software engineering** is “(1) the application of a _systematic, disciplined, quantifiable_ approach to the development, operation, and maintenance of software, that is, the application of engineering to software,” and “(2) the study of approaches as in (1).” –-- IEEE Standard 610.12
 
-参考阅读：
+建议阅读：
 
 1. 软件工程知识体系 ( [SWEBoK](https://www.computer.org/web/swebok/index)，[An Overview of the SWEBOK Guide](https://www.sebokwiki.org/wiki/An_Overview_of_the_SWEBOK_Guide) )
 2. [The Nature of Software](https://www.sebokwiki.org/wiki/The_Nature_of_Software) 
@@ -36,6 +36,26 @@ layout: default
 4. [Key Points Need to Know about Software Engineering](https://www.sebokwiki.org/wiki/Key_Points_a_Systems_Engineer_Needs_to_Know_about_Software_Engineering)
 5. [Capability Maturity Model Integration (CMMI)](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration)
 
-## 2、构建软件项目团队
+## 2、软件项目准备
+
+项目与项目管理：
+
+> **Project management** is the _practice_ of initiating, planning, executing, controlling, and closing the work of a team to achieve _specific goals_ and meet _specific success criteria_ at the _specified time_. A **project** is a _temporary_ endeavor designed to produce a _unique_ product, service or result with a defined beginning and end (usually time-constrained, and often constrained by funding or staffing) undertaken to meet unique goals and objectives, typically to bring about _beneficial change or added value_. --- Nokes, Sebastian _The Definitive Guide to Project Management_ 
+
+[^_^]:
+    项目的特点：(1) 时效性；（2）唯一性；（3）创新性
+    软件项目更是如此！
+
+**实践一**：[项目准备](01-prject-init) 
+
+建议阅读：
+
+1. [项目管理概念](https://en.wikipedia.org/wiki/Project_management)
+    - 重点了解 Initiation 要做哪些工作
+2. 彼得·德鲁克 _[卓有成效的管理者](https://book.douban.com/subject/4020857/)_
+
+## 3、项目策划
+
+
 
 
