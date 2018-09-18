@@ -46,7 +46,7 @@ layout: default
     项目的特点：(1) 时效性；（2）唯一性；（3）创新性
     软件项目更是如此！
 
-**实践一**：[项目准备](01-prject-init) 
+**实践一**：[项目管理与知识团队组织](01-prject-init) 
 
 建议阅读：
 
@@ -54,8 +54,16 @@ layout: default
     - 重点了解 Initiation 要做哪些工作
 2. 彼得·德鲁克 _[卓有成效的管理者](https://book.douban.com/subject/4020857/)_
 
-## 3、项目策划
+## 3、项目过程规划
 
+> A software development process or life cycle is a structure imposed on the development of a software product. There are several models for such processes, each describing approaches to a variety of tasks or activities that take place during the process.
 
+**实践二**：[软件过程模型与Scrum](02-project-process-modeling)
+
+建议阅读：
+
+1. [SCRUM 是一个用于开发和维护复杂产品的框架](http://www.scrumcn.com/agile/scrum-knowledge-library/scrum.html)
+2. [Process Models in Software Engineering](https://www.ics.uci.edu/~wscacchi/Papers/SE-Encyc/Process-Models-SE-Encyc.pdf)
+3. [Software development process](https://en.wikipedia.org/wiki/Software_development_process)
 
 

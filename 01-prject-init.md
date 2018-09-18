@@ -1,9 +1,9 @@
 ---
 layout: default
-title: 软件项目管理基础知识 
+title: 项目管理与知识团队组织
 ---
 
-# 实验一：软件项目准备
+# 实验一：项目管理与知识团队组织
 {:.no_toc}
 
 * 目录
@@ -138,8 +138,6 @@ title: 软件项目管理基础知识
 **3.1 管理方法论**
 
 推崇以自我管理为核心的协同管理。[Scrum](http://www.scrumcn.com/agile/scrum-knowledge-library/scrum.html)
-
-必须下载阅读的教材：_Scrum and XP from the Trenches_  [英文电子版](https://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2) ,[中文翻译](http://www.infoq.com/cn/minibooks/scrum-xp-from-the-trenches) 
 
 **3.2 软件项目管理工具**
 
