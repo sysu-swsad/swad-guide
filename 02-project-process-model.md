@@ -57,7 +57,7 @@ RUP迭代周期:
 
 必须下载阅读的教材：_Scrum and XP from the Trenches_  [英文电子版](https://www.infoq.com/minibooks/scrum-xp-from-the-trenches-2) ,[中文翻译](http://www.infoq.com/cn/minibooks/scrum-xp-from-the-trenches) 
 
-## 5、课后实践 - 敏捷过程工具的使用
+## 4、课后实践 - 敏捷过程工具的使用
 
 1. 下载腾讯微信企业版PC端，安装 腾讯敏捷产品研发平台（TAPD）
     - 比较完善 backlog 支持（树结构）
