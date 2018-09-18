@@ -58,7 +58,7 @@ layout: default
 
 > A software development process or life cycle is a structure imposed on the development of a software product. There are several models for such processes, each describing approaches to a variety of tasks or activities that take place during the process.
 
-**实践二**：[软件过程模型与Scrum](02-project-process-modeling)
+**实践二**：[软件过程模型与Scrum](02-project-process-model)
 
 建议阅读：
 
