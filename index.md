@@ -66,4 +66,8 @@ layout: default
 2. [Process Models in Software Engineering](https://www.ics.uci.edu/~wscacchi/Papers/SE-Encyc/Process-Models-SE-Encyc.pdf)
 3. [Software development process](https://en.wikipedia.org/wiki/Software_development_process)
 
+## 4、启动软件项目
 
+> envision the product scope, vision, and business case.
+
+**实践三** [Inception，启动项目](03-inception)

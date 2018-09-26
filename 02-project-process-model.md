@@ -51,6 +51,18 @@ RUP迭代周期:
 
 利用软件产品范围的弹性，合理规划范围（20%业务决定80%满意度），使得软件生产按 **固定节奏** 运行，固定迭代周期、固定开发周期、固定升级周期。
 
+**敏捷软件开发宣言**
+
+http://agilemanifesto.org/iso/zhchs/manifesto.html
+
+我们一直在实践中探寻更好的软件开发方法，
+身体力行的同时也帮助他人。由此我们建立了如下价值观：
+
+- **Individuals and interactions** over processes and tools
+- **Working software** over comprehensive documentation
+- **Customer collaboration** over contract negotiation
+- **Responding to change** over following a plan
+
 ## 3、Scrum与敏捷开发
 
 推崇以自我管理为核心的协同管理。[Scrum](http://www.scrumcn.com/agile/scrum-knowledge-library/scrum.html)
