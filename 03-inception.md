@@ -111,7 +111,7 @@ title: Inception 实践指南
 
 ## 5、项目文档提交！
 
-## 1、Github 的组织
+### 5.1 Github 的组织
     
 * 创建一个组织， 如 AwesomeTickets
 * 每个成员加入项目组织
@@ -120,7 +120,7 @@ title: Inception 实践指南
 * 创建第一个文件 index.md 作为作业的索引文件
 
 
-## 2、 团队作业清单
+### 5.2 团队作业清单
 
 * 1、About（项目规划）
 * 2、Team profile（团队组建）
