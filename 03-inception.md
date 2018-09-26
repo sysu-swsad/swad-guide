@@ -130,7 +130,7 @@ title: Inception 实践指南
 * X1 meet_recording
     - inception meeting (yy/mm/dd)
 
-注：sprint backlog 与 sprint plan 见项目规划要求
+注：sprint backlog 与 sprint plan 见项目规划要求  
 注：meeting_recording 要求一周一次或一个迭代一次
 
 
