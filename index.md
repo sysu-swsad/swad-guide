@@ -72,8 +72,8 @@ layout: default
 
 **实践三** [Inception，启动项目](03-inception)
 
-## 5、策划第一次迭代
+## 5、组织第一次迭代
 
-**实践四**
+**实践四** [Elabration, 第一次迭代](04-first-iteration)
 
 
