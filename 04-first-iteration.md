@@ -82,7 +82,7 @@ title: 组织第一次迭代
 
 2、团队周任务管理
 
-* 在大作业 git 文档仓库下建立一个XX周任务项目，采用 [To do、Inprogress、Done](https://github.com/sysu-sasd-project/dashboard/projects/1)
+* 在大作业 git 文档仓库下建立一个XX周任务项目，采用 [To do、Inprogress、Done](https://github.com/sysu-sasd-project/dashboard/projects/1)模板
 * 在周末观察该模板，思考：
     - 每个人工作量分配合理吗？
     - 如果出现大面积延期，总结原因，并给出解决方案？
