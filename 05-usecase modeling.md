@@ -6,7 +6,7 @@ title: 用例建模
 # 用例建模
 {:.no_toc}
 
-练习材料: [Asg-RH.pdf](material/Asg-RH.pdf)
+练习材料: [Asg-RH.pdf](material/Asg_RH.pdf)
 
 ## 1、课堂练习
 
