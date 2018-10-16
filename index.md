@@ -76,4 +76,9 @@ layout: default
 
 **实践四** [Elabration, 第一次迭代](04-first-iteration)
 
+## 6、用例建模
+
+**实践四** [Elabration, 用例建模](05-usecase modeling)
+
+
 
