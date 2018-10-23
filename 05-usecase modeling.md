@@ -3,7 +3,7 @@ layout: default
 title: 用例建模
 ---
 
-# 用例建模
+# 用例建模 - 绘制用例图
 {:.no_toc}
 
 练习材料: [Asg-RH.pdf](material/Asg_RH.pdf)
