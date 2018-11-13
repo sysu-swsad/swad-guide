@@ -86,7 +86,7 @@ layout: default
 
 ## 7、领域建模
 
-**实践八** [Elabration, 领域建模-概念与数据](08-domain modeling)
+**实践八** [Elabration, 领域建模-概念与数据建模](08-domain modeling)
 
 **实践九** [Elabration, 领域建模-模型验证与面向资源的Api设计](09-domain modeling)
 
