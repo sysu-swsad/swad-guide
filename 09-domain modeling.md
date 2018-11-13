@@ -99,7 +99,7 @@
 
 案例研究：
 
-* [GitHub API v3 | GitHub Developer Guide](https://developer.github.com/v3/),[中文翻译](https://zhuanlan.zhihu.com/p/35555758)
+* [GitHub API v3 \| GitHub Developer Guide](https://developer.github.com/v3/),[中文翻译](https://zhuanlan.zhihu.com/p/35555758)
 
 **2.2 资源**
 
