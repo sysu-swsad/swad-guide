@@ -88,9 +88,13 @@ layout: default
 
 **实践八** [Elabration, 领域建模-概念与数据建模](08-domain modeling)
 
-**实践九** [Elabration, 领域建模-模型验证与面向资源的Api设计](09-domain modeling)
+**实践九** [Elabration, 领域建模-模型验证与面向资源的API设计](09-domain modeling)
 
 ## 8、功能建模
+
+**实践十** [Elabration, 功能建模-设计RPC风格API](10-functional modeling)
+
+## 9、架构设计与建模
 
 
 
