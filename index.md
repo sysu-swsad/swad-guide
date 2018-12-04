@@ -96,7 +96,9 @@ layout: default
 
 ## 9、架构设计与建模
 
+**实践十一**  [Elabration, 架构设计-概念与方法](11-architecture-design-methods)
 
+**实践十二**  [Elabration, 架构设计-微服务架构与模式]()
 
 
 
