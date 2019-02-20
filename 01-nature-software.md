@@ -98,7 +98,7 @@ SWEBoK 不合适度量一个企业的软件工程能力。出于成本的因素�
 
 2、PSP 2.1 （不需要提交）
 
-* 阅读《现代软件工程》的 PSP: Personal Software Process 章节
+* 阅读[《现代软件工程》](https://www.cnblogs.com/xinz/archive/2011/11/27/2265425.html)的 PSP: Personal Software Process 章节
 * 按表格 PSP 2.1， 了解一个软件工程师在接到一个任务之后要做什么，需要哪些技能，解释你打算如何统计每项数据？ （期末考核，每人按开发阶段提交这个表
 
 
