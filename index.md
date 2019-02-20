@@ -23,22 +23,10 @@ layout: default
 
 **目录**
 
-* 目录
-{:toc}
+* 1、引导知识
+    - [软件的本质与软件工程科学](01-nature-software)
 
-## 1、软件工程概述
 
-软件工程定义：
-
-> **Software engineering** is “(1) the application of a _systematic, disciplined, quantifiable_ approach to the development, operation, and maintenance of software, that is, the application of engineering to software,” and “(2) the study of approaches as in (1).” –-- IEEE Standard 610.12
-
-建议阅读：
-
-1. 软件工程知识体系 ( [SWEBoK](https://www.computer.org/web/swebok/index)，[An Overview of the SWEBOK Guide](https://www.sebokwiki.org/wiki/An_Overview_of_the_SWEBOK_Guide) )
-2. [The Nature of Software](https://www.sebokwiki.org/wiki/The_Nature_of_Software) 
-3. Brooks,F《人月神话》
-4. [Key Points Need to Know about Software Engineering](https://www.sebokwiki.org/wiki/Key_Points_a_Systems_Engineer_Needs_to_Know_about_Software_Engineering)
-5. [Capability Maturity Model Integration (CMMI)](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration)
 
 ## 2、软件项目准备
 
