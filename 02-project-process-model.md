@@ -1,8 +1,8 @@
 layout: default
-title: 软件过程管理
+title: 软件过程模型与Scrum
 ---
 
-# 实验一：软件过程模型与Scrum
+# 软件过程模型与Scrum
 {:.no_toc}
 
 * 目录
