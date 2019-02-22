@@ -23,74 +23,36 @@ layout: default
 
 **目录**
 
-* 1、引导知识
-    - [软件的本质与软件工程科学](01-nature-software)
+1、引导知识
 
+- [软件的本质与软件工程科学](01-nature-software)
+- [软件项目与知识团队管理](02-prject-team)
+- [软件项目过程模型与规划](03-project-process)
 
+2、初始阶段
 
-## 2、软件项目准备
+- [Inception 实践指南](04-inception)
+- [组织第一次迭代](05-first-iteration)
+- [用例建模-绘制用例图](06-usecase modeling)
+- [用例建模-需求获取与组织，用例编写](07-usecase modeling)
+- [业务建模](08-usecase modeling)
 
-项目与项目管理：
+3、细化迭代
 
-> **Project management** is the _practice_ of initiating, planning, executing, controlling, and closing the work of a team to achieve _specific goals_ and meet _specific success criteria_ at the _specified time_. A **project** is a _temporary_ endeavor designed to produce a _unique_ product, service or result with a defined beginning and end (usually time-constrained, and often constrained by funding or staffing) undertaken to meet unique goals and objectives, typically to bring about _beneficial change or added value_. --- Nokes, Sebastian _The Definitive Guide to Project Management_ 
+- [领域建模-概念与数据建模](09-domain modeling)
+- [领域建模-模型验证与面向资源的API设计](10-domain modeling)
+- [功能建模-设计RPC风格API](11-functional modeling)
 
-[^_^]:
-    项目的特点：(1) 时效性；（2）唯一性；（3）创新性
-    软件项目更是如此！
+4、架构设计
 
-**实践一**：[项目管理与知识团队组织](01-prject-init) 
+- [架构设计-概念与方法](12-architecture-design-methods)
 
-建议阅读：
+5、设计模式 与 面向对象设计原则
 
-1. [项目管理概念](https://en.wikipedia.org/wiki/Project_management)
-    - 重点了解 Initiation 要做哪些工作
-2. 彼得·德鲁克 _[卓有成效的管理者](https://book.douban.com/subject/4020857/)_
-
-## 3、项目过程规划
-
-> A software development process or life cycle is a structure imposed on the development of a software product. There are several models for such processes, each describing approaches to a variety of tasks or activities that take place during the process.
-
-**实践二**：[软件过程模型与Scrum](02-project-process-model)
-
-建议阅读：
-
-1. [SCRUM 是一个用于开发和维护复杂产品的框架](http://www.scrumcn.com/agile/scrum-knowledge-library/scrum.html)
-2. [Process Models in Software Engineering](https://www.ics.uci.edu/~wscacchi/Papers/SE-Encyc/Process-Models-SE-Encyc.pdf)
-3. [Software development process](https://en.wikipedia.org/wiki/Software_development_process)
-
-## 4、启动软件项目
 
 > envision the product scope, vision, and business case.
 
-**实践三** [Inception，启动项目](03-inception)
 
-## 5、组织第一次迭代
-
-**实践四** [Elabration, 第一次迭代](04-first-iteration)
-
-## 6、用例建模
-
-**实践五** [Elabration, 用例建模-绘制用例图](05-usecase modeling)
-
-**实践六** [Elabration, 用例建模-需求获取与组织，用例编写](06-usecase modeling)
-
-**实践七** [Elabration, 用例建模-业务建模](07-usecase modeling)
-
-## 7、领域建模
-
-**实践八** [Elabration, 领域建模-概念与数据建模](08-domain modeling)
-
-**实践九** [Elabration, 领域建模-模型验证与面向资源的API设计](09-domain modeling)
-
-## 8、功能建模
-
-**实践十** [Elabration, 功能建模-设计RPC风格API](10-functional modeling)
-
-## 9、架构设计与建模
-
-**实践十一**  [Elabration, 架构设计-概念与方法](11-architecture-design-methods)
-
-**实践十二**  [Elabration, 架构设计-微服务架构与模式实践]()
 
 
 
