@@ -41,7 +41,7 @@ title: 软件的本质与软件工程科学
 
 * Software requirements are prone to frequent change
 * In many cases, requirements allocated to software must be renegotiated and reprioritized
-* Software requirements are prone to frequent change
+* Small changes to software can have large negative effects（There are no small software changes）
 * The term _prototyping_ has different connotations for systems engineers and software engineers
 * Software often provides the interfaces that interconnect other system components
 * Cyber security is a present and growing concern for systems that incorporate software
@@ -49,7 +49,9 @@ title: 软件的本质与软件工程科学
     - 20% 功能能满足 80% 人的需要
     - 20% 测试可发现 80% 错误
 
-前3条指出在不一致、不可视、易于变化的环境下定义软件定义（需求）风险。后面是需要面对的各种设计风险，使开发者能有效应对这些变化。最后一条是工程难题，软件分析不是发现更多的功能与需求，而是确认有效的功能与需求，去伪存真不断满足客户需要。软件设计也不是追求最先进技术，而是控制变化附加的成本，使得软件生产的预算、时间等能在掌控之中。
+前3条指出在不一致、不可视、易于变化的环境下定义软件定义（需求）风险。  
+借着3条是需要面对的各种设计风险，不仅要能满足软件的变化，而且软件的非功能性需求的实现成本远远高于功能实现成本。  
+最后一条是工程难题，软件分析不是发现更多的功能与需求，而是确认有效的功能与需求，去伪存真不断满足客户需要。软件设计也不是追求最先进技术，而是控制变化附加的成本，使得软件生产的预算、时间等能在掌控之中。
 
 ### 1.4 软件工程知识体系（SWEBoK）
 
@@ -57,7 +59,7 @@ title: 软件的本质与软件工程科学
 
 [2014 V3 版的 SWEBoK](https://www.sebokwiki.org/wiki/An_Overview_of_the_SWEBOK_Guide) 将知识分为软件工程实践和基础教育两个部分，共 15 个知识域（knowledge areas / KAs）。Software Requirements，Software Design 是其中最重要的两个领域。
 
-从实践的角度，Software Engineering Process 从时间维度给出了项目的过程模型（Process Models），其它则从内容角度给出了原则与方法。这样，就得到沿时间轴的二维表，这样软件工程就变成了在什么时刻、工作目标、应该做什么、怎么做的最佳实践指南。
+从实践的角度，Software Engineering Process 从时间维度给出了项目的过程模型（Process Models），其它则从内容角度给出了原则与方法。这样，就得到沿时间轴的二维表，这样软件工程就变成了在什么时刻、工作目标、应该做什么、怎么做的 **最佳实践指南**。
 
 **软件生命周期**（Life Cycle）：在时间维度，对软件项目任务进行划分，又成为[软件开发过程](https://en.wikipedia.org/wiki/Software_development_process)。常见有瀑布模型、螺旋模型、敏捷的模型等。
 
