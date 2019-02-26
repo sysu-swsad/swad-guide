@@ -27,15 +27,12 @@ title: 软件的本质与软件工程科学
 
  [Fred Brooks](https://en.wikipedia.org/wiki/Fred_Brooks) 是 IBM 360 计算机架构师，负责 360/OS 与工具的开发。它总结了大型软件开发的经验，在 1975 年出版了 ["The Mythical Man-Month"](https://en.wikipedia.org/wiki/The_Mythical_Man-Month) 软件工程的经典著作，中文翻译 [人月神话](https://baike.baidu.com/item/%E4%BA%BA%E6%9C%88%E7%A5%9E%E8%AF%9D/7531243)。首次分析了软件生产的本质以及当时适用解决“大型”软件开发问题的的实践，又称为“ Brooks' law”。
 
-[软件的本质](https://www.sebokwiki.org/wiki/The_Nature_of_Software)决定了软件开发的困难，其本质特性为五个：
+[软件的本质](https://www.sebokwiki.org/wiki/The_Nature_of_Software)决定了软件开发的困难，Brook 总结其本质特性为四个：
 
 1. complexity 复杂性
 2. conformity 一致性
 3. changeability 可变性
 4. invisibility 不可视性
-5. Uniqueness 唯一性
-
-其中，唯一性由后人增补。
 
 在上述基础上 IEEE 强调了 [软件工程与其他工程相比的特殊性](https://www.sebokwiki.org/wiki/Key_Points_a_Systems_Engineer_Needs_to_Know_about_Software_Engineering)，这里仅给出一些与课程相关的特点
 
@@ -78,8 +75,7 @@ SWEBoK 不合适度量一个企业的软件工程能力。出于成本的因素�
 * 当企业具有 50-300 人的技术团队，企业管理标准化、人才管理就显得尤其重要了（企业成功需要人才队伍）
 * 企业规模再大一些，老板已无法认识每位员工，只能通过数字/报表管理了，基于绩效的管理与优化就重要了（规模企业需要治理）
 
-软件能力成熟度模型（Capability Maturity Model for Software / CMM）或 [CMMI](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration)，不仅给出了企业能力提升的路径，也给出了企业能力评估的事实标准。
-
+软件能力成熟度模型（Capability Maturity Model for Software / CMM）或 [CMMI](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration)，通过使用知识（能力）的不同，用不同级别表示开发企业的成熟性，不仅给出了企业能力提升的路径，也给出了企业能力评估的事实标准。
 
 ### 1.6 软件工程相关标准
 
@@ -109,6 +105,14 @@ SWEBoK 不合适度量一个企业的软件工程能力。出于成本的因素�
 * 在代码为王的时代，软件标准化文档的意义似乎不足
 * 如果你是甲方，没有标准无法验收
 
+### 1.7 最佳实践管理工具
+
+最佳实践管理工具属于知识管理工具。在知识密集型企业（如 IT企业、咨询服务企业、行政服务等）、人力资源流动频繁的企业，尤其重要。常用的有：
+
+1. 维基（Wiki）
+2. 论坛（BBS），或问答（如 StackOverflow，知乎）
+3. 博客（Wordpress）
+
 ## 2、作业
 
 1、简答题
@@ -125,7 +129,13 @@ SWEBoK 不合适度量一个企业的软件工程能力。出于成本的因素�
 * 阅读[《现代软件工程》](https://www.cnblogs.com/xinz/archive/2011/11/27/2265425.html)的 PSP: Personal Software Process 章节
 * 按表格 PSP 2.1， 了解一个软件工程师在接到一个任务之后要做什么，需要哪些技能，解释你打算如何统计每项数据？ （期末考核，每人按开发阶段提交这个表
 
+3、系统化与标准化实践（思考题，不需要提交）
 
+参考软件工程系统化、规范化的建设思路，如图所示：
+
+![](images/01-software-crisis.png)
+
+设计 XX 社团规范化管理方案。思考如何搭建社团最佳实践平台及内容规划
 
 ## 参考资料
 
