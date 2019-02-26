@@ -161,7 +161,8 @@ RUP迭代周期:
         - 技术团队初步确定技术方法，力争做一些技术原型，如 基于 MVC 框架的的用户登陆实现
         - 业务调研团队调查竞争性产品，分析它们的基础、共性业务以及竞争优势
 
-## 建议阅读：
+## 参考资料
 
 1. [SCRUM 是一个用于开发和维护复杂产品的框架](http://www.scrumcn.com/agile/scrum-knowledge-library/scrum.html)
-2. [Process Models in Software Engineering](https://www.ics.uci.edu/~wscacchi/Papers/SE-Encyc/Process-Models-SE-Encyc.pdf)
+2. Henrik Kniberg，[硝烟中的Scrum和XP](https://www.infoq.cn/article/scrum-xp-from-the-trenches)
+3. Scoot Ambler, [规范敏捷交付-企业级敏捷软件交付的方法与实践](https://book.douban.com/subject/25741440/)
