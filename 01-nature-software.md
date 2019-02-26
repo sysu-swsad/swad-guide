@@ -144,6 +144,7 @@ SWEBoK 不合适度量一个企业的软件工程能力。出于成本的因素�
 3. Fred Brooks《人月神话》
 4. 邹欣，《现代软件工程讲义》，https://www.cnblogs.com/xinz/archive/2011/11/27/2265425.html
 
+* 思维导图使用 [MindMaster](https://mm.edrawsoft.cn/) 制作 
 
 
 
