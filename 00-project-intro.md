@@ -127,5 +127,10 @@ title: 实验项目简介与要求
 
 ## 5、学生博客
 
-待整理
+
+
+### 5.x 原型构建
+
+* 【推】 [2017 Spring Boot Web Application](https://hypjudy.github.io/2017/05/30/spring-boot-web-application/)
+    - 采用 Java  Spring MVC -  Thymeleaf 构建项目原型
 
