@@ -148,7 +148,7 @@ title: 实验项目简介与要求
 
 ### 5.5 架构设计与模式
 
-* 【推】 [详解REST架构风格](https://segmentfault.com/a/1190000014768057)
+* 【推】 [2018 详解REST架构风格](https://segmentfault.com/a/1190000014768057)
     - 严谨的写作风格，干货的内容。获得 segmentfault 推荐的文章
 
 ### 5.6 表现层设计技术（VUE等 js 技术）
