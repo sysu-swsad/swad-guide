@@ -127,10 +127,41 @@ title: 实验项目简介与要求
 
 ## 5、学生博客
 
+### 5.1 Github 使用
 
+* 【推】 [2018 在Github上创建Organization](https://chun-ge.github.io/How-to-establish-an-organization-on-Github/)
+    - 团队项目合作第一步，创建组织
+* [2018 Git恢复之前版本的两种方法reset、revert（图文详解）](https://blog.csdn.net/yxlshk/article/details/79944535)
+    - 必须的技巧
 
-### 5.x 原型构建
+### 5.2 项目组织与管理工具与经验
+
+* 【推】 [2018 初为产品经理的心理障碍](https://blog.csdn.net/qq_33559972/article/details/79934411)
+    - 强！把想法转化为产品设计的确有这个过程。技术和经验都重要
+
+### 5.3 原型设计与构建
 
 * 【推】 [2017 Spring Boot Web Application](https://hypjudy.github.io/2017/05/30/spring-boot-web-application/)
     - 采用 Java  Spring MVC -  Thymeleaf 构建项目原型
+
+### 5.4 需求分析实战案例分享
+
+### 5.5 架构设计与模式
+
+* 【推】 [详解REST架构风格](https://segmentfault.com/a/1190000014768057)
+    - 严谨的写作风格，干货的内容。获得 segmentfault 推荐的文章
+
+### 5.6 表现层设计技术（VUE等 js 技术）
+
+### 5.7 服务层设计技术（REST，gRPC 等技术）
+
+### 5.8 DevOps 技术（CI/CD工具链，docker技术）
+
+* 【推】 [2018 使用Travis CI和Codecov进行持续集成和代码覆盖率统计](https://pak-choi.github.io/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1/2018/04/15/SAAD-Report/)
+    - 使用 Travis 测试必读， Paased 小图标代表高大上
+* [2018 Docker 入门实战](https://ace-0.github.io/2018/04/13/docker-learning/)
+
+### 5.9 接口设计方法与工具（Swagger 等）
+
+### 5.x 其他
 
