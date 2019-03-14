@@ -138,13 +138,19 @@ title: 实验项目简介与要求
 
 * 【推】 [2018 初为产品经理的心理障碍](https://blog.csdn.net/qq_33559972/article/details/79934411)
     - 强！把想法转化为产品设计的确有这个过程。技术和经验都重要
+* [2018 团队协作工具之我见](https://summer06.github.io/2018/06/22/team_work_tool/)
 
 ### 5.3 原型设计与构建
 
 * 【推】 [2017 Spring Boot Web Application](https://hypjudy.github.io/2017/05/30/spring-boot-web-application/)
     - 采用 Java  Spring MVC -  Thymeleaf 构建项目原型
+* [2018 交互设计那些小纠结](https://blog.csdn.net/qq_33559972/article/details/80877316)
+    - 写得好也重要
 
 ### 5.4 需求分析实战案例分享
+
+* [2018 需求分析的思路转变](https://blog.csdn.net/qq_34112279/article/details/80954526)
+    - 当你努力去做对别人（stakeholder）有价值的事情，就是好的开始
 
 ### 5.5 架构设计与模式
 
@@ -153,15 +159,31 @@ title: 实验项目简介与要求
 
 ### 5.6 表现层设计技术（VUE等 js 技术）
 
-### 5.7 服务层设计技术（REST，gRPC 等技术）
+* [2018 Vue 跨域问题和前后端分离](https://www.jianshu.com/p/712a327e4d84)
+
+### 5.7 服务层设计技术（Web，REST，gRPC 等技术）
+
+[2018 Go语言：Web开发中的数据储存](https://blog.csdn.net/zzmian/article/details/78759804)
+    - 介绍 go 语言处理 Cookie 与 session
 
 ### 5.8 DevOps 技术（CI/CD工具链，docker技术）
 
 * 【推】 [2018 使用Travis CI和Codecov进行持续集成和代码覆盖率统计](https://pak-choi.github.io/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1/2018/04/15/SAAD-Report/)
     - 使用 Travis 测试必读， Paased 小图标代表高大上
+* [2018 travis与docker hub集成](https://txzdream.github.io/2018/06/07/travis-docker-hub/)
+    - go 使用 travis
+
 * [2018 Docker 入门实战](https://ace-0.github.io/2018/04/13/docker-learning/)
+
+* [2018 在 Ubuntu 16.04 LTS 上使用 docker-compose 实现 Nginx+Flask+MySQL+Redis 的 web 后台应用部署](https://www.zybuluo.com/longj/note/1173047)
+    - 一键部署
+* [2018 Docker 加速部署](https://www.zybuluo.com/longj/note/1189134)
+* [2018 github+travis实现自动部署 && 前端跨域问题解决之Nginx配置篇](https://blog.csdn.net/liaozelin_/article/details/80906078)
+
 
 ### 5.9 接口设计方法与工具（Swagger 等）
 
 ### 5.x 其他
+
+* [2018 Jmeter测试详记](https://humanlee1011.github.io/2018/07/07/Jmeter%E6%B5%8B%E8%AF%95%E8%AF%A6%E8%AE%B0/)
 
