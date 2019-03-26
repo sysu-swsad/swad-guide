@@ -87,16 +87,17 @@ title: 组织第一次迭代
 
 ## 5、项目文档提交
 
-1、Product Backlog （产品特性）
+1、构建初步的 Product Backlog （产品特性）
 
 * 建立系统上下文模型（Use Case Diagram）
 * 按 [硝烟中的Scrum和XP](http://www.infoq.com/cn/minibooks/scrum-xp-from-the-trenches) 方法，将用户目标、产品技术特征等在 [TAPD](https://www.tapd.cn/) 中组织成第一层需求
 * 通过该图识别外部系统与设备，思考可能涉及的技术
 * 了解用例点估算工作量的方法
     - [使用用例点估算软件成本](https://www.ibm.com/developerworks/cn/rational/edge/09/mar09/collaris_dekker/index.html)
+* 编写团队作业：“5、Product Backlog （产品特性库）”
 
 
-2、 故事板技术
+2、 使用故事板技术构建原型
 
 * 根据你的项目需要，选择一个业务绘制用户界面流草图
 * 思考：故事板技术的优点与缺点
