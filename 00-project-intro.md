@@ -129,12 +129,18 @@ title: 实验项目简介与要求
 
 ### 5.1 Github 使用
 
+**[Pro Git 入门必读](https://git-scm.com/book/zh/v2)**  
+
 * 【推】 [2018 在Github上创建Organization](https://chun-ge.github.io/How-to-establish-an-organization-on-Github/)
     - 团队项目合作第一步，创建组织
 * [2018 Git恢复之前版本的两种方法reset、revert（图文详解）](https://blog.csdn.net/yxlshk/article/details/79944535)
     - 必须的技巧
 
 ### 5.2 项目组织与管理工具与经验
+
+**彼得·德鲁克，[《卓有成效的管理者》](https://book.douban.com/subject/1322025/)**  
+**[硝烟中的Scrum和XP](https://www.infoq.cn/article/scrum-xp-from-the-trenches)**  
+
 
 * 【推】 [2018 初为产品经理的心理障碍](https://blog.csdn.net/qq_33559972/article/details/79934411)
     - 强！把想法转化为产品设计的确有这个过程。技术和经验都重要
