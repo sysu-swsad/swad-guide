@@ -94,7 +94,7 @@ title: 组织第一次迭代
 * 通过该图识别外部系统与设备，思考可能涉及的技术
 * 了解用例点估算工作量的方法
     - [使用用例点估算软件成本](https://www.ibm.com/developerworks/cn/rational/edge/09/mar09/collaris_dekker/index.html)
-* 编写团队作业：“5、Product Backlog （产品特性库）”
+* 编写团队作业：**“5、Product Backlog （产品特性库）”**
 
 
 2、 使用故事板技术构建原型
@@ -103,7 +103,7 @@ title: 组织第一次迭代
 * 思考：故事板技术的优点与缺点
 * 思考：如何才能使得UI原型的数据接近真实
 * 使用 UI 原型工具，将 UI 原型导出为 html 静态，放置在 uideign 的一个子目录下
-* 在团队作业 7.1 UI design 下建立一个子标题链接该 UI
+* 在团队作业 **7.1 UI design** 下建立一个子标题链接该 UI
 
 **！！！数据、数据、真实数据！！！**
 
