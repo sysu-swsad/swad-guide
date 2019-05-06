@@ -89,7 +89,7 @@
 团队作业要求：
 1. 6.5 系统顺序图
     - 每个成员至少编写一个应用场景的系统顺序图（左用户，中间是系统，右边是外部实体对象）
-    - 至少一个操作需要写后置条件，用注释符号表示
+    - 至少一个操作需要写后置条件，用注释符号表示写在操作的后面
     - 请使用自己 git 账号体完成该任务（同时在文字中标明自己的学号）
 2. 7.3 给出部分正式的 API 说明书
     - 建议参考 [微信开发平台](https://open.weixin.qq.com/cgi-bin/showdocument?action=dir_list&t=resource/res_list&verify=1&id=open1419317851&token=&lang=zh_CN) 或 [微信支付API](https://pay.weixin.qq.com/wiki/doc/api/app/app.php?chapter=9_1)
