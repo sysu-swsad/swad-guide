@@ -18,7 +18,7 @@
 * 操作协议（Operation contracts）
 * 基于功能点的项目工作量估计（Function Points）
 
-**1.3 系统实训图案例**
+**1.3 系统时序图案例**
 
 微信OAuth2.0授权登录:
 
