@@ -8,14 +8,14 @@
 
 软件架构就是把系统分解为一些部件，描述这些部件的职责及它们之间的协作行为。
 
-### 1.2 软件架构模式
+### 1.2 软件架构风格
 
 > An architectural style guides the organization of these elements and their collaborations to solve common problems of the specific domain.
 
 架构模式（**style**）是 **特定领域** 常见问题的解决方案，例如：
 
 * 信息系统领域
-    - 多层架构，经典的三层架构是：
+    - 层次架构（如C/S，B/S），经典的三层架构是：
         - 表示层（Presentation Layer）
             - Models，Views，Controllers
             - State Management 
@@ -28,15 +28,27 @@
 * 结构化设计领域，如 Unix
     - 模块化架构
         - 模块结构树
-            - 父模块称为控制
+            - 父模块称为控制（controller）
             - 各子模块分别完成输入、处理、输出
+            - 叶子模块称为工人（worker）
         - 自顶向下分解，自下而上开发
 * 消息服务领域
     - 消息过滤， 典型产品 web 框架
     - 数据黑板， 典型产品 Redis
     - 消息路由， [6 种基本模式](http://www.rabbitmq.com/getstarted.html)， 典型产品 AMQP 产品系列，例如 RabbitMQ 
 
-### 1.3 了解一些常用架构模式优势
+### 1.3 软件架构模式（pattern）
+
+> In software engineering, a **design pattern** is a general repeatable solution to a commonly occurring problem in software design. A design pattern isn't a finished design that can be transformed directly into code. It is a description or template for how to solve a problem that can be used in many different situations.
+
+架构模式与常见的问题场景（注意，风格是特定领域的指导方案，通常用结构化组件与约束描述）的决解方案。它通常可以用 UML 图描述，描述解决问题相关的一组特定功能的部件与它们之间交互。
+
+例如：
+
+* 人机交互层解决方案  MVC
+* 关系数据库访问层 ORM （JPA 是 java 应用程序 ORM 模式的技术标准，hibernate 是一种技术实现框架）
+
+### 1.4 了解一些常用架构模式优势
 
 * 软件结构是业界长期最佳实践的总结
     - 选择 优于 创造
@@ -50,7 +62,7 @@
         - 有序？ 消息流（依赖）是否单向
 
 
-### 1.4 架构（architecture styles）与应用程序框架（application frameworks）
+### 1.5 架构（architecture styles）与应用程序框架（application frameworks）
 
 框架是特定语言和技术的架构应用解决方案。例如 Java Spring web framework，它包含了 Java 开发 web 应用的各种业务场景的具体解决方案。例如：
 
@@ -234,12 +246,13 @@ https://sysu-sasd-project.github.io/dashboard/
 * Software Architecture Document 参见教材 第三十九章 39.3
     - 仅需要 架构问题、解决方案说明、逻辑视图、物理视图 四个部分
 
-## 5、个人作业
+## 5、个人思考（不需要提交）
 
 * 描述软件架构与框架之间的区别与联系
 * 以你的项目为案例
     - 绘制三层架构模型图，细致到分区
     - 结合你程序的结构，从程序员角度说明三层架构给开发者带来的便利
+    - 结合你程序的结构，给出程序的部署模型
 * 研究 VUE 与 Flux 状态管理的异同
 
 
