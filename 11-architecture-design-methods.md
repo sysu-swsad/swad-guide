@@ -245,6 +245,7 @@ https://sysu-sasd-project.github.io/dashboard/
     - 请按格式书写
 * Software Architecture Document 参见教材 第三十九章 39.3
     - 仅需要 架构问题、解决方案说明、逻辑视图、物理视图 四个部分
+    - 如果采用微服务风格，建议描述一些架构模式与实现方案
 
 ## 5、个人思考（不需要提交）
 
