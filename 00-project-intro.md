@@ -189,6 +189,16 @@ title: 实验项目简介与要求
 
 ### 5.9 接口设计方法与工具（Swagger 等）
 
+### 5.10 免费或可试用云服务资源
+
+* [2019 使用阿里云邮件推送服务发送验证码](https://jankingwon.github.io/post/aliyun-email.html)
+    - 发邮件也用云服务，SMTP等邮件协议 might out！
+* [2019 使用阿里云短信推送服务发送验证码](https://jankingwon.github.io/post/aliyun-sms.html) 
+    - 发短信要钱，每条 5 分
+
+
+
+
 ### 5.x 其他
 
 * [2018 Jmeter测试详记](https://humanlee1011.github.io/2018/07/07/Jmeter%E6%B5%8B%E8%AF%95%E8%AF%A6%E8%AE%B0/)
