@@ -165,15 +165,16 @@ title: 实验项目简介与要求
 
 ### 5.6 表现层设计技术（VUE等 js 技术）
 
-* 【推】 [2019 Koa2教程](https://xwy27.github.io/koa2-note/)
-    - GitBook 做的文档非常易于阅读，入门之选！
 * [2018 Vue 跨域问题和前后端分离](https://www.jianshu.com/p/712a327e4d84)
     - 分两篇更好
 
 ### 5.7 服务层设计技术（Web，REST，gRPC 等技术）
 
-[2018 Go语言：Web开发中的数据储存](https://blog.csdn.net/zzmian/article/details/78759804)
+* 【推】 [2019 Nodejs: Koa2教程](https://xwy27.github.io/koa2-note/)
+    - GitBook 做的文档非常易于阅读，入门之选！
+* [2018 Go：Web开发中的数据储存](https://blog.csdn.net/zzmian/article/details/78759804)
     - 介绍 go 语言处理 Cookie 与 session
+
 
 ### 5.8 DevOps 技术（CI/CD工具链，docker技术）
 
