@@ -165,7 +165,10 @@ title: 实验项目简介与要求
 
 ### 5.6 表现层设计技术（VUE等 js 技术）
 
+* 【推】 [2019 Koa2教程](https://xwy27.github.io/koa2-note/)
+    - GitBook 做的文档非常易于阅读，入门之选！
 * [2018 Vue 跨域问题和前后端分离](https://www.jianshu.com/p/712a327e4d84)
+    - 分两篇更好
 
 ### 5.7 服务层设计技术（Web，REST，gRPC 等技术）
 
@@ -195,7 +198,8 @@ title: 实验项目简介与要求
     - 发邮件也用云服务，SMTP等邮件协议 might out！
 * [2019 使用阿里云短信推送服务发送验证码](https://jankingwon.github.io/post/aliyun-sms.html) 
     - 发短信要钱，每条 5 分
-
+* [2019 从申请阿里云学生服务器到部署 SpringBoot 项目](https://jankingwon.github.io/post/aliyun-stu-server.html)
+    - 建议使用 docker 部署 SpringBoot，Mysql，Nginx 等服务。
 
 
 
