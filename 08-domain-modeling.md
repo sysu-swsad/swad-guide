@@ -53,16 +53,17 @@
 
 领域模型与参考实现：[Priests and Devils 牧师与恶魔](https://blog.csdn.net/c486c/article/details/79795708)
 
-**1.4 跳板跳水业务建模**
+**1.4 基于 RBAC 权限模块建模**
 
-阅读文档：https://zhidao.baidu.com/question/65607627.html
-
-* 给出跳板跳水领域建模
-* 该段文字逻辑严密吗？ 
-
-**1.5 使用领域模型学习 VUE**
-
-涉及范围：https://cn.vuejs.org/v2/guide/index.html
+* 基本概念要点：https://www.ibm.com/developerworks/cn/java/j-lo-rbacwebsecurity/index.html
+    *  主体（Subjects），例如：用户、用户组、进程等需要访问资源的实体
+    *  客体（Objects or Resource），被主体使用的对象
+    *  访问策略或规则 (Policy or Rules)，主体使用客体的规则
+* Role 访问资源的抽象，作为定义访问规则的基本单元，用来简化资源的授权
+    *  例如，一个用户，默认授权为 userRole
+* 具体实现
+    * [Kubernetes-基于RBAC的授权](https://www.kubernetes.org.cn/4062.html)
+    * Java web 框架 [Apache Shiro](https://shiro.apache.org/)
 
 
 # 2、理解领域模型与数据库设计之间的关系
