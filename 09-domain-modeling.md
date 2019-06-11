@@ -94,16 +94,14 @@
 
 * HTTP 协议基础
 * 标准：[Google API 设计指南 - 面向资源的设计](https://segmentfault.com/a/1190000008459700)
-* 工具：API 设计工具，推荐 Blueprint [apiary](https://apiary.io/), [swagger editor](http://editor.swagger.io/#/), [postman](https://www.getpostman.com/), [zpizza](https://apizza.net/)
+* 工具：API 设计工具，推荐 [swagger editor](http://editor.swagger.io/#/), [postman](https://www.getpostman.com/), [zpizza](https://apizza.net/)
 * 测试工具： curl
-
-案例研究：
-
-* [GitHub API v3 \| GitHub Developer Guide](https://developer.github.com/v3/),[中文翻译](https://zhuanlan.zhihu.com/p/35555758)
 
 **2.2 资源**
 
 建议先阅读 [RESTful HTTP in practice](https://www.infoq.com/articles/designing-restful-http-apps-roth) [中文翻译](https://www.infoq.com/cn/articles/designing-restful-http-apps-roth?utm_source=infoq_en&utm_medium=link_on_en_item&utm_campaign=item_in_other_langs)
+
+上文内容比较陈旧，它较好描述领域模型与 web API 的关系，设计规范性请参考【实例】部分提供的 github、微软、google的标准
 
 > 资源是REST中最关键的抽象概念，它们是能够被远程访问的应用程序对象。一个资源就是一个标识单位，任何可以被访问或被远程操纵的东西都可能是一个资源。
 
@@ -115,7 +113,14 @@ Figure 1: Example analysis model
 
 **2.3 实例**
 
-Gmail API 服务实现了 Gmail API 并提供了 Gmail 的大部分功能。它有以下资源模型：
+案例研究：
+
+* [GitHub API v3 \| GitHub Developer Guide](https://developer.github.com/v3/),[中文翻译](https://zhuanlan.zhihu.com/p/35555758)
+* [【微软】 API 设计](https://docs.microsoft.com/zh-cn/azure/architecture/best-practices/api-design)
+* [Google API权威指南中文版](https://www.jianshu.com/p/cb02e9016293) 
+
+
+例如：Gmail API 服务实现了 Gmail API 并提供了 Gmail 的大部分功能。它有以下资源模型：
 
 * Gmail API 服务：gmail.googleapis.com
 * 用户集合：users/*。每个用户有以下资源
@@ -198,7 +203,7 @@ Gmail API 服务实现了 Gmail API 并提供了 Gmail 的大部分功能。它�
 
 ...
 
-**2.6 使用设计工具**
+**2.6 使用设计工具与标准**
 
 为什么要使用工具？
 
@@ -207,6 +212,8 @@ Gmail API 服务实现了 Gmail API 并提供了 Gmail 的大部分功能。它�
     - 生成可视化 API 客户端，集成测试服务端
     - 作为 mock 服务端，支持客户端开发
 * 支持 API 快速迭代
+
+标准 OpenAPI （请使用 Swagger 工具设计）
 
 如何有效使用这些工具？
 
