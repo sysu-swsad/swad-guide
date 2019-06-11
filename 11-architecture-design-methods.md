@@ -171,7 +171,7 @@ Philippe Kruchten提出的4+1视图方法：
 
 **1、部署图的元素**
 
-* artifacts：编程项目编译后生成的程序包。 如 jar，war 等。 可能你说我的项目只有一个制品？ 呵呵 ... 项目不够大，业务不够复杂，继续努力
+* artifacts：编程项目编译后生成的程序包。 如 jar，war 等。可能你说我的项目只有一个制品？ 呵呵 ... 项目不够大，业务不够复杂，继续努力
 * components：具有特定接口的功能部件。一个 artifacts 可以包含多个 components，一个 component 也可以涉及多个制品
 * Device，Host，Execute Environment ：统称容器或节点，\<\<container catalog\>\> 表示分类 {key：value，...} 表示属性描述
 * 关联：表示通讯模式或协议
