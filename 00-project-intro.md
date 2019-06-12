@@ -148,6 +148,8 @@ title: 实验项目简介与要求
 
 ### 5.3 原型设计与构建
 
+* [2019 利用xiaopiu做产品原型输出与交互设计](https://blog.csdn.net/tangyt77/article/details/90701462)
+    - 有文有图有小结。如果能结合需求，写出页面设计的过程？！当然，这是另一篇博客了.
 * 【推】 [2017 Spring Boot Web Application](https://hypjudy.github.io/2017/05/30/spring-boot-web-application/)
     - 采用 Java  Spring MVC -  Thymeleaf 构建项目原型
 * [2018 交互设计那些小纠结](https://blog.csdn.net/qq_33559972/article/details/80877316)
@@ -180,6 +182,8 @@ title: 实验项目简介与要求
 
 * 【推】 [2018 使用Travis CI和Codecov进行持续集成和代码覆盖率统计](https://pak-choi.github.io/%E7%B3%BB%E7%BB%9F%E5%88%86%E6%9E%90%E4%B8%8E%E8%AE%BE%E8%AE%A1/2018/04/15/SAAD-Report/)
     - 使用 Travis 测试必读， Paased 小图标代表高大上
+* [2019 jenkins+maven+docker初步自动化构建部署](https://blog.csdn.net/Artemis16340304/article/details/90679931)
+    - 坑真是很多，我们都是“扫雷”工程师
 * [2018 travis与docker hub集成](https://txzdream.github.io/2018/06/07/travis-docker-hub/)
     - go 使用 travis
 
