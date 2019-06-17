@@ -1,4 +1,7 @@
 # 领域建模 - 基础
+{:.no_toc}
+
+练习材料: [Asg-RH.pdf](material/Asg_RH.pdf)
 
 ## 1、课程练习
 

@@ -93,7 +93,7 @@
 你需要掌握的知识：
 
 * HTTP 协议基础
-* 标准：[Google API 设计指南 - 面向资源的设计](https://segmentfault.com/a/1190000008459700)
+* 标准：OpenAPI
 * 工具：API 设计工具，推荐 [swagger editor](http://editor.swagger.io/#/), [postman](https://www.getpostman.com/), [zpizza](https://apizza.net/)
 * 测试工具： curl
 
@@ -130,8 +130,6 @@ Figure 1: Example analysis model
     - 修改历史集合：users/\*/history/\*
     - 代表用户资料的资源：users/\*/profile
     - 代表用户设置项的资源：users/\*/settings
-
-
 
 **2.4 主要概念**
 
